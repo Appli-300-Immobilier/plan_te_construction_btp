@@ -1,12 +1,12 @@
-# To-Do List for Plan�te construction BTP Website
+# To-Do List for Planéte construction BTP Website
 
 ## Project Overview
-- **Company Name:** Plan�te construction BTP
+- **Company Name:** Planéte construction BTP
 - **Directory:** plan_te_construction_btp
 - **Address/Contact:** 
-  - r�alis� vos projets c'est notre priorit�
+  - réalisé vos projets c'est notre priorité
   - 
-  - Page � Produit/service
+  - Page é Produit/service
   - 
   - +237 6 57 80 35 58
   - 
@@ -27,7 +27,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: plan-te-construction-btp  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Plan�te construction BTP  - Meta description: ...
+  - Title: Planéte construction BTP  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -43,7 +43,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Plan�te construction BTP".
+  - Replace the hero title with "Planéte construction BTP".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
